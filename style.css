@@ -46,6 +46,7 @@ h5 {
     position: absolute;
     top: 2%;
     left: 6%;
+    color: white;
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
 }
@@ -62,14 +63,14 @@ h5 {
 h1 {
     position: absolute;
     top: 10%;
-    color: rgb(55, 52, 52);
+    color: white;
     font-family: 'Courier New', Courier, monospace;
     font-size: 60px;
     left: 5%;
 }
 
 .slogan {
-    color: rgb(79, 76, 76);
+    color: white;
     position: absolute;
     top: 20%;
     left: 8%;
@@ -79,7 +80,7 @@ h1 {
 }
 
 body {
-    background-image: url(bg2.jpg);
+    background-image: url(images.jpeg.jpg);
     background-size: cover;
 }
 
@@ -89,7 +90,7 @@ body {
 
 }
 body.dark{
-    background-image: url(darkmodebg.jpg);
+    background-image: url(download.jpeg);
 }
 
 body.dark {
